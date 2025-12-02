@@ -106,7 +106,7 @@ Accepted at: **IEEE TEMS MET 2025, NIT Delhi**
 ## 📫 Connect With Me  
 <p align="center">
   <a href="mailto:anshtandekar55@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-  <a href="https://www.linkedin.com/in/ansh-tandekar-b95315212/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="https://www.linkedin.com/in/ansh-tandekar/"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
   <a href="https://github.com/AnshTandekar"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
 </p>
 
