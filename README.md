@@ -53,7 +53,7 @@ I build **ML models, DApps, scalable APIs**, and love solving real-world problem
 
 - **GrainX — Crop Price Prediction**  
   Live App: https://grainx-crop-price-prediction.onrender.com  
-  Repo: https://github.com/AnshTandekar/crop-price-prediction
+  Repo: https://github.com/AnshTandekar/grainX-crop-price-prediction.git
 
 ---
 
