@@ -45,6 +45,18 @@ I build **ML models, DApps, scalable APIs**, and love solving real-world problem
 
 ---
 
+## 🚀 Live Projects
+
+- **Tyre Defect Detection (CNN)**  
+  Live App: https://tyre-defect-detection.onrender.com  
+  Repo: https://github.com/AnshTandekar/tyre-defect-detection
+
+- **GrainX — Crop Price Prediction**  
+  Live App: https://grainx-crop-price-prediction.onrender.com  
+  Repo: https://github.com/AnshTandekar/crop-price-prediction
+
+---
+
 ## 📌 Featured Projects
 
 ### 🔥 **DWT – Donating With Trust (Blockchain Crowdfunding DApp)**
@@ -60,7 +72,7 @@ Website Link : https://frontend-anshtandekar55-8205-anshtandekar55-8205s-project
 ### 🛞 **Tire Anomaly Detection using CNN (95% Accuracy)**
 - Designed CNN model with Conv2D + MaxPooling + augmentation  
 - Achieved **95% accuracy** using EarlyStopping & Checkpointing  
-- Performance evaluation: precision, recall, confusion matrix  
+- Performance evaluation: precision, recall, confusion matrix
 
 ---
 
