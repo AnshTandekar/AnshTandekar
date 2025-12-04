@@ -65,7 +65,7 @@ I build **ML models, DApps, scalable APIs**, and love solving real-world problem
 - Enabled trustless donations + milestone-based fund releases (>50% donor voting)  
 - Fully integrated frontend + MetaMask + Ethers.js  
 - Verified & deployed on Sepolia  
-Website Link : https://frontend-anshtandekar55-8205-anshtandekar55-8205s-projects.vercel.app
+Website Link : https://frontend-chi-blond-93.vercel.app/
 
 ---
 
